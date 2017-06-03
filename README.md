@@ -1,2 +1,2 @@
-# VisorAudiencias
-Sistema para el control de audiencias virtuales en el EPMSC Monteria
+# VisorEntrevista
+Sistema para el control de entrevistas virtuales en el EPMSC Monteria
